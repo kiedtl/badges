@@ -25,6 +25,10 @@ Most are GIFs, but a few have been converted over to PNGs.
 ![](browser/netscape/dark.gif)
 ![](browser/netscape/light.gif)
 
+### Clubs
+
+![](club/512kb-club.png)
+
 ### Donations
 
 ![](coffee/gimme.gif)
