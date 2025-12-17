@@ -9,15 +9,16 @@ img.badge {
   vertical-align: middle;
   image-rendering: pixelated;
   width: auto;
-  height: 19px;
-  min-height: 19px;
-  max-height: 19px;
+  height: 20px;
+  min-height: 20px;
+  max-height: 20px;
 }
 ```
 
 ## Gallery
 
-Most are GIFs, but a few have been converted over to PNGs.
+Most are GIFs, but a few have been converted over to PNGs. (They all look like
+garbage since GitHub doesn't allow custom styling.)
 
 ### Browsers
 
